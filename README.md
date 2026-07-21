@@ -32,7 +32,7 @@ cd sigg-finca-las-mercedes
 Por definir.
 
 ## Autor
-Ing. Zulma Patricia Salas Bautista
+Rodrigo martinez rubio 
 
 ## Licencia
 Este proyecto está bajo la **Licencia MIT**, una licencia permisiva que permite usar, modificar y distribuir el software libremente, siempre que se conserve el aviso de copyright.
@@ -40,4 +40,4 @@ Este proyecto está bajo la **Licencia MIT**, una licencia permisiva que permite
 Consulta el archivo [LICENSE](LICENSE) para el texto completo.
 
 ```
-Copyright (c) 2026 Zulma Salas```
+Copyright (c) 2026 Rodrigo martinez rubio```
