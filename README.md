@@ -34,9 +34,7 @@ Al tratarse de un sitio estático, no requiere instalación de dependencias ni c
 Para desarrollo se recomienda la extensión **Live Server** de Visual Studio Code, que levanta un servidor local y recarga la página automáticamente al guardar los cambios.
 
 ## Autor
-
-Ing Zulma Salas
-
+Rodrigo martinez rubio
 ## Licencia
 
 Este proyecto está bajo la **Licencia MIT**, una licencia permisiva que permite usar, modificar y distribuir el software libremente, siempre que se conserve el aviso de copyright.
