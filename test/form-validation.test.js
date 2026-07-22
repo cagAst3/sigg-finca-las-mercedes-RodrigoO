@@ -1,7 +1,7 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
 
-const { validateFormData } = require('../javascript/validacionFormulario.js');
+const { validateFormData } = require('../js/validacionFormulario.js');
 
 test('validateFormData devuelve errores cuando faltan campos obligatorios', () => {
   const resultado = validateFormData({

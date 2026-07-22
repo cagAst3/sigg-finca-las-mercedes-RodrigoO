@@ -61,7 +61,7 @@ Puedes abrir el archivo `index.html` directamente en tu navegador o, para una ex
 
 - `index.html` — página principal del sistema
 - `css/` — archivos de estilo
-- `javascript/` — lógica del cliente
+- `js/` — lógica del cliente
 - `img/` — recursos gráficos
 - `audio/` — archivos de audio del proyecto
 
