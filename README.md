@@ -1,45 +1,72 @@
 # SIGG — Sistema Integral de Gestión Ganadera
-Sistema integral para la administración de la finca **Las Mercedes**. Centraliza el control del inventario del hato, el control sanitario, la reproducción, la producción, los potreros y los costos de la operación.
 
-## Descripción
-El SIGG busca reemplazar los registros manuales por una herramienta digital que permita consultar el estado de la finca en cualquier momento, reducir errores y apoyar la toma de decisiones con información confiable.
+SIGG es un proyecto web orientado a la administración y seguimiento de una finca ganadera, con foco en la gestión del hato, la sanidad, la reproducción, la producción, los potreros y los costos operativos.
 
-## Módulos
-- **Inventario del hato** — Registro e identificación de animales, categorías, altas y bajas.
-- **Control sanitario** — Vacunaciones, tratamientos, enfermedades e historial médico.
-- **Reproducción** — Montas, servicios, gestación, partos e indicadores reproductivos.
-- **Producción** — Registro de producción de leche, pesajes y seguimiento de ceba.
-- **Potreros y alimentación** — Manejo de praderas, rotación y suministro de alimento.
-- **Costos e ingresos** — Registro de gastos, ventas y rentabilidad de la operación.
+## Descripción del proyecto
+
+El objetivo del sistema es reemplazar los registros manuales por una herramienta digital que permita:
+
+- consultar el estado de la finca de forma rápida,
+- centralizar la información en un solo lugar,
+- reducir errores en la operación diaria,
+- apoyar la toma de decisiones con datos confiables.
+
+La interfaz actual presenta la propuesta del sistema y su estructura modular, con énfasis en un flujo claro para la navegación del usuario.
+
+## Módulos previstos
+
+- Inventario del hato
+- Control sanitario
+- Reproducción
+- Producción
+- Potreros y alimentación
+- Costos e ingresos
 
 ## Estado del proyecto
-En desarrollo.
 
-## Tecnologías
-- **HTML5** — Estructura y contenido de las páginas.
-- **CSS3** — Estilos y diseño adaptable a distintos dispositivos.
-- **JavaScript** — Lógica e interactividad del lado del cliente.
+El proyecto se encuentra en desarrollo, con una base front-end en HTML, CSS y JavaScript.
+
+## Tecnologías utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
 
 ## Instalación
+
+1. Clonar el repositorio:
+
 ```bash
-# Clonar el repositorio
-gh repo clone cagAst3/sigg-finca-las-mercedes-RodrigoO
-
-# Entrar al directorio
-cd sigg-finca-las-mercedes
+git clone https://github.com/cagAst3/sigg-finca-las-mercedes-RodrigoO.git
 ```
+
+2. Entrar al directorio del proyecto:
+
+```bash
+cd sigg-finca-las-mercedes-RodrigoO
+```
+
 ## Ejecución
-Al tratarse de un sitio estático, no requiere instalación de dependencias ni compilación. Basta con abrir el archivo `index.html` en cualquier navegador.
 
-Para desarrollo se recomienda la extensión **Live Server** de Visual Studio Code, que levanta un servidor local y recarga la página automáticamente al guardar los cambios.
+Como es un sitio estático, no requiere dependencias ni compilación.
 
-## Autor
-Rodrigo martinez rubio
+Puedes abrir el archivo `index.html` directamente en tu navegador o, para una experiencia de desarrollo más cómoda, usar la extensión **Live Server** en Visual Studio Code.
+
+## Integrantes / autor principal
+
+- Autor principal: Ing. Zulma Patricia Salas Bautista
+- Proyecto desarrollado en el contexto de la finca Las Mercedes
+
+## Estructura del repositorio
+
+- `index.html` — página principal del sistema
+- `css/` — archivos de estilo
+- `javascript/` — lógica del cliente
+- `img/` — recursos gráficos
+- `audio/` — archivos de audio del proyecto
+
 ## Licencia
 
-Este proyecto está bajo la **Licencia MIT**, una licencia permisiva que permite usar, modificar y distribuir el software libremente, siempre que se conserve el aviso de copyright.
+Este proyecto está bajo la licencia MIT. Puedes usarlo, modificarlo y distribuirlo de acuerdo con los términos de la licencia.
 
-Consulta el archivo [LICENSE](LICENSE) para el texto completo.
-
-```
-Copyright (c) 2026 Rodrigo mairtinez rubio 
+Consulta el archivo [LICENSE](LICENSE) para ver el texto completo.
